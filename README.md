@@ -25,8 +25,10 @@ On GitHub, I share projects in:
 - Exploring funding opportunities and research ideas for a **PhD in Statistics**.
 - Building connections in the **statistical modeling** and **data science** community.
 
+<!--
 ## ✨ Fun Fact
 I ran my first **full marathon** recently! 🏃‍♂️
+-->
 
 ## 📫 How to reach me:
 - 📧 Email: [josephpintis@gmail.com](mailto:josephpintis@gmail.com)

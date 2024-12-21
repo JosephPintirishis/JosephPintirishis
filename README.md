@@ -13,12 +13,13 @@ I am a passionate data scientist with a strong foundation in **mathematics**, **
   I'm deeply interested in the theoretical and practical aspects of **statistics** and **data science**.   
   Specifically, my current Master's research project focuses on applying **Bayesian modeling** to **sparse and power-law graphs** in **financial networks**. It involves analyzing a **real-world U.S. equities network**. Using Bayesian approaches, we identify **overlapping communities of stocks** that exhibit similar behavior, uncovering **co-movement patterns** and **diversification opportunities**. This research demonstrates the power of **Bayesian methods** in understanding market structures and could inform **portfolio construction strategies**.  
   I would like to pursue a **PhD in Statistics** to further explore my research interests and contribute to the field.
-
+<!-- 
 ## 🛠️ My Projects
 On GitHub, I share projects in:
 - Data analysis
 - Machine learning
 - Statistical modeling
+-->
 
 ## 🤔 I’m looking for help with...
 - Exploring funding opportunities and research ideas for a **PhD in Statistics**.

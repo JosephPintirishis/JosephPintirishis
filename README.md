@@ -1,21 +1,21 @@
 # Hello, I'm Iosif Pintirishis 👋
 
-I am a passionate data scientist with a strong foundation in **mathematics**, **statistics**, and **data science**. 
+I am a passionate statistician with a strong foundation in **mathematics**, **statistics**, and **data science**. 
 
 - 🎓 **Education**:  
-  - **BSc in Mathematics and Statistics**  
-  - **MSc in Data Science** from the **University of Cyprus**  
+  - **BSc in Mathematics and Statistics** - University of Cyprus
+  - **MSc in Data Science** - University of Cyprus
+  - **PhD in Statistics** - Bocconi University (current)
 
-- 💼 **Current Role**:  
-  Risk Consultant at **KPMG Cyprus**, where I apply advanced analytics and statistical models to help businesses manage risks and make data-driven decisions.
+- 💼 **Experience**:  
+  Risk Consultant at **KPMG Cyprus**, where I applied advanced analytics and statistical models to help businesses manage risks and make data-driven decisions.
 
-- 📚 **Research Interests**:  
-  I'm deeply interested in the theoretical and practical aspects of **statistics** and **data science**.   
-  Specifically, my current Master's research project focuses on applying **Bayesian modeling** to **sparse and power-law graphs** in **financial networks**. It involves analyzing a **real-world U.S. equities network**. Using a Bayesian model approach, we identify **overlapping communities of stocks** that exhibit similar behavior, uncovering **co-movement patterns** and **diversification opportunities**.
+- 📚 **Research Interests**:
+  I am deeply interested in the theoretical and practical aspects of **Bayesian statistics**, **nonparametric methods**, and **network analysis**.
+My Master’s research project focused on applying **Bayesian modeling** to **sparse and power-law graphs** in **financial networks**. It involves analyzing a **real-world U.S. equities network**. Using a Bayesian model approach, we identify **overlapping communities of stocks** that exhibit similar behavior, uncovering **co-movement patterns** and **diversification opportunities**.
 <!--
   This research demonstrates the power of **Bayesian methods** in understanding market structures and could inform **portfolio construction strategies**. 
 -->
-  I would like to pursue a **PhD in Statistics** to further explore my research interests and contribute to the field.
 <!-- 
 ## 🛠️ My Projects
 On GitHub, I share projects in:
@@ -24,9 +24,9 @@ On GitHub, I share projects in:
 - Statistical modeling
 -->
 
-## 🤔 I’m looking for help with...
-- Exploring research ideas for a **PhD in Statistics**.
-- Building connections in the **statistical modeling** and **data science** community.
+## 🤔 I’m looking for...
+- Exploring innovative research ideas in **Bayesian statistics**.
+- Building collaborations within the **statistics** and **data science** communities.
 
 <!--
 ## ✨ Fun Fact

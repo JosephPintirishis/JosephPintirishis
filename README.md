@@ -25,7 +25,7 @@ On GitHub, I share projects in:
 -->
 
 ## 🤔 I’m looking for help with...
-- Exploring funding opportunities and research ideas for a **PhD in Statistics**.
+- Exploring research ideas for a **PhD in Statistics**.
 - Building connections in the **statistical modeling** and **data science** community.
 
 <!--

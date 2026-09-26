@@ -34,6 +34,6 @@ I ran my first **full marathon** recently! 🏃‍♂️
 -->
 
 ## 📫 How to reach me:
-- 📧 Email: [josephpintis@gmail.com](mailto:josephpintis@gmail.com)
+- 📧 Email: [iosif.pintirishis@phd.unibocconi.it](mailto:iosif.pintirishis@phd.unibocconi.it)
 - 💼 LinkedIn: [Iosif Pintirishis](https://www.linkedin.com/in/iosif-pintirishis-a69387244/)
 - 🌐 Explore my repositories for collaboration opportunities or discussions about research.
